@@ -1,3 +1,5 @@
 .idea/*
 .DS_Store
 */.DS_Store
+tmp/*
+front-image/icon_*.png
